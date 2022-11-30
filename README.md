@@ -1,4 +1,4 @@
-# Buffer for Chrome
+# Buffer for Chrome & Firefox
 
 Repository for Buffer's [Chrome](https://chrome.google.com/webstore/detail/noojglkidnpfjbincgijbaiedldjfbhh?hl=en-GB)
 and [Firefox](https://addons.mozilla.org/En-us/firefox/addon/buffer-for-firefox/) extensions.
