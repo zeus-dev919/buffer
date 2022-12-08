@@ -1,5 +1,7 @@
 # Buffer for Chrome & Firefox
 
+developed by zeus dev
+
 Repository for Buffer's [Chrome](https://chrome.google.com/webstore/detail/noojglkidnpfjbincgijbaiedldjfbhh?hl=en-GB)
 and [Firefox](https://addons.mozilla.org/En-us/firefox/addon/buffer-for-firefox/) extensions.
 
